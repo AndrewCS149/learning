@@ -1,4 +1,4 @@
-# The Coders Comptuer 
+# The Coders Computer
 
 ### The Terminal:
 * An interface for all files of a computer. 
