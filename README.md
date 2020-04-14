@@ -15,7 +15,7 @@ ___
 
 [Code 102 notes](https://github.com/AndrewCS149/learning-journal/blob/master/notes/cod102.md)
 
-[Github](https://github.com/AndrewCS149)
+[My GitHub Profile](https://github.com/AndrewCS149)
 
 
 
