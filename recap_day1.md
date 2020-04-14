@@ -18,4 +18,4 @@
 
 ### Code Editors:
 * Provides a much more user friendly way of creating software. 
-* Various code editors exist such as VS Code, Brackets, Atom and Notepad++.
+* Various code editors exist such as **VS Code**, **Brackets**, **Atom** and **Notepad++**.
