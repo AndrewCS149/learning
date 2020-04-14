@@ -18,5 +18,9 @@ ___
 
 ___
 
+
 **Fact**: Lord of the Rings is the greatest trilogy that has every been released. 
-![Gandalf](https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/Gandalf_a_l.jpg#gandalf)
+<img src="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/Gandalf_a_l.jpg#gandalf" width="400" height="350">
+
+
+
