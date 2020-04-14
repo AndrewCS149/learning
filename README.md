@@ -13,7 +13,11 @@ ___
 
 [Learning Markdown](https://github.com/AndrewCS149/learning-journal/blob/master/learningMarkdown/learningMarkdown.md)
 
+[Code 102 notes](https://github.com/AndrewCS149/learning-journal/blob/master/notes/cod102.md)
+
 [Github](https://github.com/AndrewCS149)
+
+
 
 
 **Fact**: Lord of the Rings is the greatest trilogy that has every been released. 
