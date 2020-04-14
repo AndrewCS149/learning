@@ -5,11 +5,11 @@ My name is Andrew Smith. I served six years in the United States Air Force as a 
 ___
 
 ### Table of Contents:
-* [The Coders computer](https://github.com/AndrewCS149/learning-journal/blob/master/content/theCodersComputer.html)
+* [The Coders computer](https://github.com/AndrewCS149/learning-journal/blob/master/content/theCodersComputer.md)
 
-* [Learning Markdown](https://github.com/AndrewCS149/learning-journal/blob/master/content/learningMarkdown.html)
+* [Learning Markdown](https://github.com/AndrewCS149/learning-journal/blob/master/content/learningMarkdown.md)
 
-* [Growth Mindset](https://github.com/AndrewCS149/learning-journal/blob/master/content/growthMindset.html)
+* [Growth Mindset](https://github.com/AndrewCS149/learning-journal/blob/master/content/growthMindset.md)
 
 * [Code 102 notes](https://github.com/AndrewCS149/learning-journal/blob/master/notes/cod102.md)
 
