@@ -9,13 +9,13 @@ ___
 ___
 
 ### Table of Contents:
-[The Coders computer](https://github.com/AndrewCS149/learning-journal/blob/master/codersComputers/theCodersComputer.md)
+*[The Coders computer](https://github.com/AndrewCS149/learning-journal/blob/master/codersComputers/theCodersComputer.md)
 
-[Learning Markdown](https://github.com/AndrewCS149/learning-journal/blob/master/learningMarkdown/learningMarkdown.md)
+*[Learning Markdown](https://github.com/AndrewCS149/learning-journal/blob/master/learningMarkdown/learningMarkdown.md)
 
-[Code 102 notes](https://github.com/AndrewCS149/learning-journal/blob/master/notes/cod102.md)
+*[Code 102 notes](https://github.com/AndrewCS149/learning-journal/blob/master/notes/cod102.md)
 
-[My GitHub Profile](https://github.com/AndrewCS149)
+*[My GitHub Profile](https://github.com/AndrewCS149)
 
 
 
