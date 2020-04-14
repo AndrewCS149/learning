@@ -6,7 +6,7 @@ ___
 
 ## Growth Mindset:
 
-The mindset of molding experiences into opportunities for *growth* and using failure as a stepping stone to *success*. 
+> The mindset of molding experiences into opportunities for *growth* and using failure as a stepping stone to *success*. 
 
 ___
 
