@@ -1,16 +1,18 @@
 # **HTML Basics**
 
-  ## Wireframes
-  Before creating a website, it is best practice to draw a *wireframe* of each page on the website. A wireframe is a simple layout, whether drawn by hand or using a computer software, of the page that is being created. 
-  
-  Wireframes help the creator visualize the page and understand what needs to be done in order to meet the page objectives. 
+## Wireframes
+Before creating a website, it is best practice to draw a *wireframe* of each page on the website. A wireframe is a simple layout, whether drawn by hand or using a computer software, of the page that is being created. 
+
+Wireframes help the creator visualize the page and understand what needs to be done in order to meet the page objectives. 
 
 ---
-  ## Site Navigation
+
+## Site Navigation
   * Be simple. 
   * Create meaningful context. 
   * Make the context interactive. 
   * Stay consistant with the design throughout the entire website. 
+
 ---
 
 ## HTML 
