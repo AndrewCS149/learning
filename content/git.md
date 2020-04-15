@@ -11,6 +11,7 @@ Version Control is a software that allows users to save multiple *versions* of t
 * ### **Distributed Version Control (DVCS)**
 
 ---
+
 ## What exactly is Git?
 
 Git is a DVCS that tracks the changes, or *commits*, to a project. Every time a commit is *pushed* to the project, Git takes a snapshot of the version, thus creating multiple versions of the same project. 
@@ -22,11 +23,13 @@ Data loss is much harder to achieve while working with Git.
 ---
 
 ## There are three *states* that data holds while working with Git. 
+
 * ### **Committed**
 * ### **Modified**
 * ### **Staged**
 
 ---
+
 ## Setting up a repo:
 
 There are two methods when intially setting up a repository:
