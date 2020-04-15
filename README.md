@@ -11,6 +11,8 @@ ___
 
 * [Growth Mindset](https://andrewcs149.github.io/learning-journal/content/growthMindset.html)
 
+* [What is **Git**](https://andrewcs149.github.io/learning-journal/content/git.md)
+
 * [Code 102 notes](https://andrewcs149.github.io/learning-journal/notes/code102.html)
 
 * [My GitHub Profile](https://github.com/AndrewCS149)
