@@ -17,9 +17,12 @@ ___
 
 * [Code 102 notes](https://andrewcs149.github.io/learning-journal/notes/code102.html)
 
-* [My GitHub Profile](https://github.com/AndrewCS149)
+---
+### My Profiles:
 
-* [My linkedIn Profile](https://www.linkedin.com/in/andrew149/)
+* [GitHub](https://github.com/AndrewCS149)
+
+* [LinkedIn](https://www.linkedin.com/in/andrew149/)
 
 ---
 
