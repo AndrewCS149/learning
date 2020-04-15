@@ -15,6 +15,8 @@ ___
 
 * [HTML Basics](https://andrewcs149.github.io/learning-journal/content/htmlBasics.html)
 
+* [CSS Basics](content/cssBasics.md)
+
 * [Code 102 notes](https://andrewcs149.github.io/learning-journal/notes/code102.html)
 
 ---
