@@ -7,11 +7,11 @@ ___
 ### Table of Contents:
 * [The Coders computer](https://andrewcs149.github.io/learning-journal/content/theCodersComputer.html)
 
-* [Learning Markdown](https://github.com/AndrewCS149/learning-journal/blob/master/content/learningMarkdown.md)
+* [Learning Markdown](https://andrewcs149.github.io/learning-journal/content/learningMarkdown.html)
 
-* [Growth Mindset](https://github.com/AndrewCS149/learning-journal/blob/master/content/growthMindset.md)
+* [Growth Mindset](https://andrewcs149.github.io/learning-journal/content/growthMindset.html)
 
-* [Code 102 notes](https://github.com/AndrewCS149/learning-journal/blob/master/notes/cod102.md)
+* [Code 102 notes](https://andrewcs149.github.io/learning-journal/notes/code102.html)
 
 * [My GitHub Profile](https://github.com/AndrewCS149)
 
