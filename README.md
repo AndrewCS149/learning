@@ -15,6 +15,8 @@ ___
 
 * [My GitHub Profile](https://github.com/AndrewCS149)
 
+* [My linkedIn Profile](https://www.linkedin.com/in/andrew149/)
+
 ---
 
 
