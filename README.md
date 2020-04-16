@@ -20,6 +20,8 @@ My name is Andrew Smith. I served six years in the United States Air Force as a 
 
 - [CSS Basics](content/cssBasics.md)
 
+- [How Computers Work](content/howCompsWork.md)
+
 - [Code 102 notes](notes/code102.md)
 
 ---
