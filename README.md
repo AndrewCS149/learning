@@ -18,6 +18,8 @@ My name is Andrew Smith. I served six years in the United States Air Force as a 
 
 - [JavaScript Intro](content/jsIntro.md)
 
+- [JavaScript Expressions, Operators & Functions](content/jsIntro2.md)
+
 - [CSS Basics](content/cssBasics.md)
 
 - [How Computers Work](content/howCompsWork.md)
